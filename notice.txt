@@ -1,0 +1,12 @@
+NOTICE FROM THE ARCHIVIST
+
+The brass telescope is missing from the observatory room.
+It was there on November 8. On the morning of November 9, its stand was empty.
+
+The door logs record every badge at every door: logs\, one file a day.
+staff.txt says who carries which badge.
+Every member of staff has a locker in lockers\, and the storage room is in storage\.
+
+Nobody should be in the observatory in the middle of the night. Please find out who was, and where the telescope is now.
+
+  - Dr. Imani Osei, Archivist

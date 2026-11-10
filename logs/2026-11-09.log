@@ -1,0 +1,14 @@
+03:05 door=east badge=8830 in
+03:12 door=observatory badge=8830 in
+03:20 door=observatory badge=8830 out
+03:26 door=east badge=8830 out
+06:55 door=front badge=1906 out
+09:09 door=west badge=6188 in
+10:15 door=east badge=8830 in
+14:14 door=observatory badge=2041 in (tour)
+14:50 door=observatory badge=2041 out (tour)
+15:40 door=east badge=8830 out
+17:39 door=west badge=6188 out
+19:19 door=east badge=3317 in
+20:44 door=east badge=3317 out
+21:00 door=front badge=1906 in

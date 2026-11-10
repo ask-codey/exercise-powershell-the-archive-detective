@@ -1,0 +1,7 @@
+BADGE  NAME           JOB
+1906   Bea Larsen     night guard
+2041   Imani Osei     archivist
+3317   Rosa Lind      cleaner
+4420   Nadia Petrov   volunteer
+6188   Lee Park       librarian
+8830   Felix Moreau   handyman
